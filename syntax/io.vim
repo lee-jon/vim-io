@@ -1,8 +1,7 @@
-" Vim syntax file
+" Vim Syntax File
 " Language:      Io
 " Maintainer:    Lee-Jon Ball <leejonball@gmail.com>
 " URL:           https://github.com/lee-jon/vimio
-
 if version < 600
   syntax clear
 elseif exists("b:current_syntax")
